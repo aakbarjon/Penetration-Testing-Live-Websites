@@ -41,7 +41,7 @@ Vulnerability #1: IDOR (Insecure Direct Object Reference)
 
 Description:
 
-<img src="Red-Idor.gif">
+<img src="Red_Idor.gif">
 
 
 ## Notes
