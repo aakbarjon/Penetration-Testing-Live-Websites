@@ -2,7 +2,7 @@
 
 # Pen Testing Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -19,7 +19,7 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQLI (SQL Injection)
 
 Description:
 
@@ -28,7 +28,7 @@ Description:
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS (Cross-Site Scripting)
 
 Description:
 
@@ -37,7 +37,7 @@ Description:
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR (Insecure Direct Object Reference)
 
 Description:
 
