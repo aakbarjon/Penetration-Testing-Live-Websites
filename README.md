@@ -23,7 +23,7 @@ Vulnerability #1: SQLI (SQL Injection)
 
 Description:
 
-<img src="blue-vuln1.gif">
+<img src="BLUE_sqli.gif">
 
 
 ## Green
@@ -32,7 +32,7 @@ Vulnerability #1: XSS (Cross-Site Scripting)
 
 Description:
 
-<img src="green-vuln1.gif">
+<img src="Green_XSS.gif">
 
 
 ## Red
@@ -41,7 +41,7 @@ Vulnerability #1: IDOR (Insecure Direct Object Reference)
 
 Description:
 
-<img src="red-vuln1.gif">
+<img src="Red-Idor.gif">
 
 
 ## Notes
