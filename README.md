@@ -44,6 +44,3 @@ Description:
 <img src="Red_Idor.gif">
 
 
-## Notes
-
-Describe any challenges encountered while doing the work
