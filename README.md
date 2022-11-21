@@ -2,11 +2,11 @@
 
 # Pen Testing Live Targets
 
-Time spent: 5 hours spent in total
+Time spent: 10 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
-The six possible exploits are:
+The possible exploits are:
 
 * Username Enumeration
 * Insecure Direct Object Reference (IDOR)
@@ -15,9 +15,8 @@ The six possible exploits are:
 * Cross-Site Request Forgery (CSRF)
 * Session Hijacking/Fixation
 
-Each color is vulnerable to only 2 of the 6 possible exploits. First discover which color has the specific vulnerability, then write a short description of how to exploit it, and finally demonstrate it using screenshots compiled into a GIF.
 
-## Blue
+## Blue Site
 
 Vulnerability #1: SQLI (SQL Injection)
 
@@ -26,7 +25,7 @@ Description:
 <img src="BLUE_sqli.gif">
 
 
-## Green
+## Green Site
 
 Vulnerability #1: XSS (Cross-Site Scripting)
 
@@ -35,7 +34,7 @@ Description:
 <img src="Green_XSS.gif">
 
 
-## Red
+## Red Site
 
 Vulnerability #1: IDOR (Insecure Direct Object Reference)
 
